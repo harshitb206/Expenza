@@ -1,0 +1,806 @@
+text,category
+netflix subscription renewal,Entertainment
+gym membership monthly fee,Fitness
+uber to airport,Travel
+given to ,Gifts/Donations
+electricity bill july,Utilities
+starbucks latte and croissant,Food
+weekly grocery run at whole foods,Shopping
+annual car insurance payment,Finance
+rent check for apartment 12a,Rent
+freelance project payment - q3,Income
+transfer to investment account,Finance
+veterinarian visit and medicine for dog,Pets
+birthday gift for jane,Gifts/Donations
+online course enrollment for python,Education/Childcare
+movie tickets and popcorn,Entertainment
+property tax payment,Finance
+mcdonalds combo meal,Food
+kfc family bucket,Food
+water bill for august,Utilities
+doctor appointment co-pay,Health
+dental cleaning service,Health
+donation to local charity,Gifts/Donations
+new running shoes from nike store,Shopping
+amazon purchase - books and electronics,Shopping
+monthly bus pass purchase,Travel
+train ticket to new york city,Travel
+monthly income deposit,Income
+bonus payout from employer,Income
+interest earned from savings account,Income
+internet service provider monthly fee,Utilities
+tuition payment for university semester,Education/Childcare
+textbook purchase for college,Education/Childcare
+subscription to spotify premium,Entertainment
+dinner at italian restaurant,Food
+gasoline fill-up for car,Auto/Fuel
+oil change and tire rotation,Auto/Maintenance
+loan repayment installment,Finance
+credit card annual fee,Finance
+investment in mutual fund,Finance
+dog food and toys,Pets
+cat litter and vet checkup,Pets
+purchase of a new sofa,Shopping
+home security system subscription,Utilities
+transfer to emergency fund,Finance
+haircut and salon service,Personal Care
+massage therapy session,Personal Care
+hardware store purchase for repairs,Home Maintenance
+toll road payment,Travel
+dividend income received,Income
+withdrawal from atm,Others/Transfers
+deposit via zelle,Others/Transfers
+annual domain registration fee,Business
+cloud service subscription (aws),Business
+hotel stay for conference,Business
+dinner with clients,Business
+office supplies from staples,Business
+subscription to zoom pro,Subscriptions
+daycare fee for little timmy,Education/Childcare
+private tutor for algebra class,Education/Childcare
+new summer dress from nordstrom,Shopping
+dry cleaning bill,Personal Care
+trip to the local zoo tickets,Entertainment
+new gaming headset purchase,Entertainment
+guitar lessons monthly fee,Entertainment
+atm withdrawal fee,Finance
+late payment fee for credit card,Finance
+reimbursement for travel expenses,Income
+stock sale profits,Income
+plumbing service emergency call,Home Maintenance
+replacing water heater,Home Maintenance
+purchase of an xbox console,Shopping
+new dishwasher installation,Shopping
+target run - detergent and cleaning supplies,Shopping
+trader joe's weekly haul,Shopping
+breakfast bagel and juice,Food
+fine dining reservation at the french laundry,Food
+parking fee at downtown garage,Travel
+public transit card reload,Travel
+annual professional license renewal,Business
+software subscription - adobe creative cloud,Business
+gifts for office holiday party,Gifts/Donations
+charitable donation to red cross,Gifts/Donations
+physical therapist appointment,Health
+over-the-counter flu medicine,Health
+manicure and pedicure,Personal Care
+home insurance premium,Finance
+life insurance payment,Finance
+bank checking account service fee,Finance
+monthly payment on student loan,Finance
+car wash and detailing service,Auto/Maintenance
+new tire purchase from discount tire,Auto/Maintenance
+receipt from chevron gas station,Auto/Fuel
+payment to local preschool,Education/Childcare
+summer camp enrollment,Education/Childcare
+shoes for work from zappos,Shopping
+tailoring services for suit,Personal Care
+purchase of board games,Entertainment
+ski lift ticket fee,Entertainment
+ticketmaster purchase for concert,Entertainment
+hulu streaming service,Entertainment
+tax preparation services by cpa,Finance
+federal estimated tax payment,Finance
+investment consultation fee,Finance
+bonds purchase from brokerage,Finance
+groceries from safeway,Shopping
+takeout pizza order,Food
+lunch at chipotle,Food
+taxi cab fare,Travel
+metro card reload,Travel
+propane delivery for heating,Utilities
+sewage and trash disposal bill,Utilities
+life coaching session,Personal Care
+eyelash extension service,Personal Care
+annual fee for brokerage account,Finance
+late rent penalty,Finance
+emergency fund deposit via direct debit,Finance
+401k contribution,Finance
+refund from returned jacket,Income
+commission payment,Income
+business flight change fee,Business
+client thank-you gifts,Business
+subscription to industry journal,Subscriptions
+babysitting service fee,Education/Childcare
+boots and coat purchase,Shopping
+hiking gear from patagonia,Shopping
+paddle board rental,Entertainment
+gymnasium day pass,Fitness
+vitamins subscription,Health
+new washing machine,Shopping
+locksmith service for new keys,Home Maintenance
+doctor consultation - card payment ref 4448,Health
+concert ticket order 987 ltd - upi,Entertainment
+jio recharge order 987 online - cashback,Utilities
+paid to snapdeal - cash order,Shopping
+coursera order 987 charge,Education/Childcare
+mcdonalds - cash txn,Food
+hp ags - online payment,Utilities
+clinic visit - cash inc ref 2105,Health
+1mg app - online payment,Health
+temple donation - prepaid txn,Gifts/Donations
+gaana ltd,Entertainment
+ajio order 987 online,Shopping
+interest - cash ltd - upi,Income
+refund #1234 pvt ltd,Others/Transfers
+loan repayment - prepaid pvt ltd - online payment,Finance
+apollo pharmacy charge - cashback,Health
+uber - prepaid txn ref 6446,Travel
+paid to gaana ref 5678 charge,Entertainment
+tax refund - cash inc ref 4149,Income
+fuel (offer) app - upi,Auto/Fuel
+papa johns (promo) app - online payment,Food
+maintenance charge (promo) order - upi,Rent
+booking.com - cash app - online payment,Travel
+delhi travel,Travel
+bus fare to delhi,Travel
+intercity travel,Travel
+domestic flight ticket,Travel
+international flight booking,Travel
+school fee order 987 pvt ltd - upi,Education/Childcare
+insurance premium order 987 co,Finance
+ikea - card ltd,Shopping
+phone bill (offer) india ref 1172,Utilities
+salary - card,Income
+costa coffee order 987 co,Food
+dividend - card app - cashback,Income
+lyft - cash txn,Travel
+swiggy inc ref 6775,Food
+steam ref 5678 order - upi,Entertainment
+cleartrip - card inc,Travel
+indigo - card charge - upi,Travel
+electricity bill - cash online ref 7736,Utilities
+baskin robbins order 987 txn ref 6259,Food
+myntra #1234 co ref 2144,Shopping
+hospital payment order 987 payment - online payment,Health
+paid to redbus txn ref 3624,Travel
+jio recharge - card - upi,Utilities
+myntra ref 5678 online ref 4727,Shopping
+society fee - prepaid app - cashback,Rent
+paid to apollo pharmacy ref 5678 order,Health
+toll plaza (offer) txn - cashback,Travel
+baskin robbins - prepaid india - upi,Food
+amazon prime (promo) online ref 1419,Entertainment
+paid to makemytrip #1234 charge - cashback,Travel
+hotstar ref 5678 app,Entertainment
+cinema hall order 987 pvt ltd - online payment,Entertainment
+ngo donation - cash inc - cashback,Gifts/Donations
+house rent - card india,Rent
+local mart #1234 charge - online payment,Shopping
+flipkart (promo) ltd - cashback,Shopping
+taco bell ref 5678,Food
+food panda #1234 online - online payment,Food
+spicejet (offer) india - online payment,Travel
+referral bonus ref 5678,Income
+sbi salary - cash co,Income
+cash withdrawal (promo) ltd ref 5924,Others/Transfers
+yatra payment,Travel
+sbi salary #1234 order - online payment,Income
+paid to burger king - cash order,Food
+fiverr payout (promo) app,Income
+bolt - card online,Travel
+interest ltd - upi,Income
+uber order 987 co,Travel
+parking fee - prepaid app,Travel
+school fee - card co - online payment,Education/Childcare
+apartment rent ref 5678 co - cashback,Rent
+amazon prime (promo),Entertainment
+paid to university fee #1234 charge - online payment,Education/Childcare
+fiverr payout (offer) pvt ltd - cashback,Income
+phone bill order 987 pvt ltd - cashback,Utilities
+cinema hall #1234 order - online payment,Entertainment
+barbeque nation order 987 co,Food
+airtel bill - card india,Utilities
+mcdonalds - prepaid charge ref 6353,Food
+local bus #1234 charge,Travel
+freelance payment - card txn - cashback,Income
+exam fee #1234 order - upi,Education/Childcare
+medplus #1234 - online payment,Health
+haldiram - cash app,Food
+haldiram #1234 charge,Food
+electricity payment inc,Utilities
+college fee #1234 order - cashback,Education/Childcare
+coursera order 987 inc ref 2303,Education/Childcare
+baskin robbins - cash payment ref 6651,Food
+apollo pharmacy - prepaid app - upi,Health
+taco bell ref 3199,Food
+zomato (promo) charge,Food
+concert ticket - cash,Entertainment
+dominos #1234 online,Food
+local diner ref 5678 ltd - cashback,Food
+parking fee - cash co,Travel
+donation - cash ltd ref 4736,Gifts/Donations
+airtel bill - prepaid - upi,Utilities
+vistara (offer) txn - cashback,Travel
+baskin robbins (offer) charge - upi,Food
+courier order 987 ltd,Others/Transfers
+school fee - card ltd - upi,Education/Childcare
+apollo pharmacy #1234 order,Health
+cinema hall - card order - cashback,Entertainment
+redbus (offer) ref 8948,Travel
+interest - prepaid india,Income
+cleartrip ref 5678 pvt ltd - upi,Travel
+dunkin donuts (offer) payment,Food
+bolt #1234 co,Travel
+starbucks (offer) inc - cashback,Food
+lyft - card co,Travel
+air india order 987 pvt ltd - online payment,Travel
+coaching center app - cashback,Education/Childcare
+society fee (offer) order - upi,Rent
+papa johns ref 5678 app - online payment,Food
+spicejet txn - cashback,Travel
+dineout - online payment,Food
+taco bell #1234 co - online payment,Food
+courier (promo) order - upi,Others/Transfers
+local diner (promo) - online payment,Food
+referral bonus #1234 india - cashback,Income
+hp gas - prepaid co - upi,Utilities
+ajio - card payment - cashback,Shopping
+haldiram - cash txn,Food
+exam fee - card payment - upi,Education/Childcare
+starbucks ref 5678 co - cashback,Food
+haldiram #1234 payment - cashback,Food
+mutual fund sip #1234 ltd,Finance
+electricity bill ref 5678 co,Utilities
+commission (offer) ltd,Income
+cinema hall ref 5678 app,Entertainment
+cinema hall (offer) india,Entertainment
+indigo #1234 - online payment,Travel
+insurance premium - cash - upi,Finance
+ola - cash inc - upi,Travel
+office rent (promo) india - upi,Rent
+bolt order 987 online,Travel
+coursera - prepaid payment - online payment,Education/Childcare
+fiverr payout (promo) txn,Income
+flipkart charge - cashback,Shopping
+barbeque nation - prepaid charge ref 2547,Food
+vistara ref 5678 co - upi,Travel
+parking fee (promo) india,Travel
+hp gas #1234 app,Utilities
+hospital payment ref 5678 payment,Health
+pathology lab co,Health
+baskin robbins ref 5678 ref 8100,Food
+taco bell ref 9914,Food
+swiggy order 987 - cashback,Food
+croma ref 5678 pvt ltd - online payment,Shopping
+swiggy - cash ltd - upi,Food
+air india - card order,Travel
+barbeque nation - card co - online payment,Food
+dental clinic (promo) order - upi,Health
+credit card payment - card inc - online payment,Finance
+food panda india - upi,Food
+school fee txn,Education/Childcare
+hdfc salary #1234 india - cashback,Income
+irctc ref 5678 inc - upi,Travel
+irctc - cash pvt ltd,Travel
+doctor consultation #1234 ref 3299,Health
+local bus ref 5678,Travel
+fuel order,Auto/Fuel
+burger king - card inc - upi,Food
+indigo ref 5678 - upi,Travel
+commission (promo) order ref 7744,Income
+electricity payment - cash india,Utilities
+petrol pump #1234 payment,Auto/Fuel
+flipkart - prepaid txn,Shopping
+fuel (offer) app ref 1722,Auto/Fuel
+netflix (promo) txn ref 6715,Entertainment
+bonus ref 5678 india - upi,Income
+vistara order 987 order - cashback,Travel
+costa coffee - cashback,Food
+phone bill - card india - upi,Utilities
+1mg txn - cashback,Health
+dineout (promo) txn - upi,Food
+amazon prime #1234 online ref 8076,Entertainment
+course payment - prepaid india - online payment,Education/Childcare
+snapdeal (promo) charge - upi,Shopping
+air india ref 5678 order,Travel
+tax refund - cash order - cashback,Income
+medplus (promo) pvt ltd - online payment,Health
+atm withdrawal (promo) order - cashback,Others/Transfers
+landlord rent - card charge - online payment,Rent
+redbus (promo) ltd,Travel
+landlord rent - card india - online payment,Rent
+office rent - cash ltd - online payment,Rent
+costa coffee - cash pvt ltd - upi,Food
+metro payment ref 6072,Travel
+indigo - cash co - online payment,Travel
+metro - cash payment - upi,Travel
+atm withdrawal #1234 india - upi,Others/Transfers
+dunkin donuts ref 9936,Food
+burger king (promo) ltd,Food
+dividend (promo) payment ref 5586,Income
+hotstar co - upi,Entertainment
+charity (offer) india ref 5211,Gifts/Donations
+salary credited ref 2671,Income
+papa johns (offer) ltd,Food
+netflix - cash online,Entertainment
+gofirst (promo) charge - online payment,Travel
+dominos ref 5678 payment,Food
+yatra (promo) order,Travel
+pathology lab ltd,Health
+dividend (promo) pvt ltd - online payment,Income
+dental clinic txn,Health
+medplus ref 5678 inc ref 7606,Health
+cash withdrawal - cash ref 9272,Others/Transfers
+office rent (offer) app,Rent
+papa johns - cash co - upi,Food
+coaching center - prepaid ltd - cashback,Education/Childcare
+indigo - prepaid inc,Travel
+kfc ref 5678,Food
+bonus - card india - online payment,Income
+ola order 987 pvt ltd - upi,Travel
+medplus - card txn - cashback,Health
+cafe coffee day #1234 payment - cashback,Food
+air india - cash pvt ltd - online payment,Travel
+rent payment september ref 8622,Rent
+society fee #1234 charge,Rent
+jio recharge - card order ref 4960,Utilities
+snapdeal order 987 order - upi,Shopping
+parking fee - prepaid co - cashback,Travel
+mobile recharge ref 5678 payment,Utilities
+electricity bill ref 5678 pvt ltd ref 8082,Utilities
+hotstar - cash ltd,Entertainment
+mobile recharge ref 5678 ltd,Utilities
+donation - cash co,Gifts/Donations
+steam (promo) order ref 7281,Entertainment
+amazon (offer) app ref 7285,Shopping
+steam #1234,Entertainment
+amazon prime order 987 payment ref 8942,Entertainment
+irctc co - online payment,Travel
+mcdonalds (promo) ltd,Food
+hotstar (promo) payment - upi,Entertainment
+irctc inc ref 3022,Travel
+fiverr payout #1234 india - cashback,Income
+udemy (promo) co,Education/Childcare
+ola - cash pvt ltd - upi,Travel
+pizza hut payment - cashback,Food
+dominos - card - upi,Food
+society fee #1234 online - online payment,Rent
+croma ref 5678 co,Shopping
+phone bill pvt ltd - cashback,Utilities
+bookmyshow - prepaid co - cashback,Entertainment
+baskin robbins - card order - cashback,Food
+jio recharge ref 5678,Utilities
+hdfc salary order - online payment,Income
+subway (offer) inc - cashback,Food
+snapdeal - card txn,Shopping
+ajio - cash online - cashback,Shopping
+coursera - prepaid order ref 1116,Education/Childcare
+myntra (offer) order ref 8673,Shopping
+charity ref 5678,Gifts/Donations
+lic charge ref 6629,Finance
+sbi salary - prepaid pvt ltd,Income
+freelance payment ref 5678 ref 3979,Income
+salary #1234 charge,Income
+subway (promo) india,Food
+credit card payment order 987 pvt ltd,Finance
+bolt #1234 ltd ref 6265,Travel
+dominos #1234 online - upi,Food
+house rent - cash charge - cashback,Rent
+apollo pharmacy - cash payment - online payment,Health
+spotify (promo) charge ref 4113,Entertainment
+hotstar order 987 pvt ltd - upi,Entertainment
+pizza hut - prepaid inc ref 1418,Food
+reliance digital - prepaid inc - cashback,Shopping
+vistara (offer) order - upi,Travel
+tax refund #1234 charge - cashback,Income
+exam fee app,Education/Childcare
+yatra (promo) charge,Travel
+dominos (promo) inc - online payment,Food
+pharmacy order 987 app ref 1209,Health
+coaching center - prepaid txn - online payment,Education/Childcare
+doctor consultation - prepaid - upi,Health
+baskin robbins order 987 pvt ltd - upi,Food
+groceries at local mart ref 6676,Shopping
+mobile recharge - prepaid co - cashback,Utilities
+dividend #1234 co - online payment,Income
+yatra - cash online,Travel
+petrol pump (promo) online - upi,Auto/Fuel
+rent (offer) txn - online payment,Rent
+dividend - card order,Income
+university fee - prepaid payment,Education/Childcare
+donation ref 5678 ltd - upi,Gifts/Donations
+water board #1234 - online payment,Utilities
+freelance payment (promo) app,Income
+coaching center - cash co - upi,Education/Childcare
+bookmyshow - card ltd ref 6391,Entertainment
+airtel bill (offer) india,Utilities
+local bus - card pvt ltd - online payment,Travel
+water board (promo) online,Utilities
+booking.com india,Travel
+sbi salary (offer) ltd,Income
+donation - prepaid pvt ltd - online payment,Gifts/Donations
+gaana #1234 inc - cashback,Entertainment
+charity - cash txn ref 9203,Gifts/Donations
+loan repayment - prepaid ltd,Finance
+gaana order 987 payment - upi,Entertainment
+makemytrip - card order - upi,Travel
+referral bonus #1234 txn - online payment,Income
+interest - prepaid inc - upi,Income
+coaching center (offer) - cashback,Education/Childcare
+barbeque nation - cash - upi,Food
+charity ref 5678 online ref 4783,Gifts/Donations
+spotify order 987 inc - cashback,Entertainment
+1mg - prepaid app - upi,Health
+hotstar ref 5678 pvt ltd,Entertainment
+coursera order 987 - cashback,Education/Childcare
+mobile recharge (promo) pvt ltd - online payment,Utilities
+haldiram - prepaid online,Food
+dividend txn - online payment,Income
+mcdonalds - card inc - online payment,Food
+food panda order 987 app,Food
+apartment rent (promo) order,Rent
+atm withdrawal - cash co ref 6198,Others/Transfers
+pathology lab #1234 order - online payment,Health
+coaching center (offer) payment - upi,Education/Childcare
+reliance digital - card india - upi,Shopping
+gaana - card inc ref 5560,Entertainment
+university fee - cash order,Education/Childcare
+amazon - prepaid inc,Shopping
+courier (offer) ltd - upi,Others/Transfers
+university fee (offer) online - online payment,Education/Childcare
+mutual fund sip (offer) - online payment,Finance
+fuel txn,Auto/Fuel
+uber - cash payment ref 1131,Travel
+burger king order 987 online ref 1360,Food
+costa coffee order 987 pvt ltd ref 4684,Food
+air india #1234 online - cashback,Travel
+emi payment - prepaid india,Finance
+landlord rent #1234 online - cashback,Rent
+water board - prepaid payment,Utilities
+cleartrip (offer) pvt ltd ref 9512,Travel
+lic order 987 online,Finance
+courier - cash ltd - upi,Others/Transfers
+flat rent (promo) ltd,Rent
+city taxi order 987 pvt ltd - upi,Travel
+courier charge - cashback,Others/Transfers
+pizza hut - cash payment - online payment,Food
+hp gas - cash online ref 8302,Utilities
+insurance premium pvt ltd,Finance
+refund (promo) app,Others/Transfers
+spicejet - prepaid ltd ref 8068,Travel
+city taxi (promo) pvt ltd,Travel
+doctor consultation txn,Health
+local mart - cash charge - upi,Shopping
+airtel bill ref 5678 payment,Utilities
+concert ticket (promo) app - cashback,Entertainment
+costa coffee ref 5678 ltd - online payment,Food
+zomato - cash txn - upi,Food
+city taxi ref 5678 inc,Travel
+credit card payment (promo) txn - upi,Finance
+croma - cash online - upi,Shopping
+hospital payment - card txn,Health
+petrol pump (offer) inc ref 9462,Auto/Fuel
+papa johns #1234 ltd,Food
+indigo - prepaid payment - online payment,Travel
+upwork payout ref 5678 charge ref 5106,Income
+irctc #1234 payment - online payment,Travel
+coursera #1234 pvt ltd,Education/Childcare
+uber pvt ltd,Travel
+bonus order 987 online - cashback,Income
+pharmacy order 987 ref 8844,Health
+landlord rent ref 5678 payment,Rent
+paytm salary order 987 online - online payment,Income
+refund co ref 7115,Others/Transfers
+uber order 987 txn,Travel
+toll plaza ref 5678 - cashback,Travel
+charity - cashback,Gifts/Donations
+steam ref 5678,Entertainment
+netflix india ref 1754,Entertainment
+pharmacy - card charge,Health
+atm withdrawal ref 5678 charge - upi,Others/Transfers
+irctc - card txn - online payment,Travel
+food panda pvt ltd,Food
+ajio (offer) order - online payment,Shopping
+landlord rent co - cashback,Rent
+ola (offer) order - upi,Travel
+pharmacy #1234 co,Health
+ajio co,Shopping
+flipkart order 987 india,Shopping
+commission (promo) - upi,Income
+indigo order 987 charge - upi,Travel
+myntra ref 5678 pvt ltd - cashback,Shopping
+udemy #1234 app,Education/Childcare
+hospital payment (offer) ltd - cashback,Health
+haldiram inc,Food
+paytm salary (offer) online - upi,Income
+coursera ref 5678 co - upi,Education/Childcare
+hp gas - prepaid pvt ltd,Utilities
+sbi salary (promo),Income
+udemy - prepaid - cashback,Education/Childcare
+dividend co - upi,Income
+electricity bill ref 5678 pvt ltd,Utilities
+dividend - card app ref 5626,Income
+gaana (promo) online,Entertainment
+gas cylinder refill ref 3923,Utilities
+society fee ref 5678 ltd ref 7779,Rent
+spotify - online payment,Entertainment
+indigo txn ref 6091,Travel
+electricity bill order 987 charge - online payment,Utilities
+pizza hut ref 5678 inc - cashback,Food
+dominos - card co,Food
+ngo donation - card inc - cashback,Gifts/Donations
+refund - card co - online payment,Others/Transfers
+dividend - card co - online payment,Income
+bolt - prepaid payment,Travel
+cleartrip order 987 online,Travel
+salary ref 5678 app,Income
+medplus (promo) payment - online payment,Health
+oyo - card pvt ltd,Travel
+courier - prepaid co,Others/Transfers
+insurance premium charge ref 6392,Finance
+ngo donation (offer) app - upi,Gifts/Donations
+sbi salary - cash charge,Income
+school fee (offer) charge - upi,Education/Childcare
+costa coffee order 987 co - online payment,Food
+commission ref 5678 app ref 8669,Income
+tax refund - card inc - cashback,Income
+bonus (offer) online - online payment,Income
+ajio - prepaid co - online payment,Shopping
+city taxi #1234 online ref 1720,Travel
+courier #1234 ltd - cashback,Others/Transfers
+vistara - card,Travel
+dominos (promo) co - cashback,Food
+local bus (promo) ref 9113,Travel
+spicejet - prepaid app,Travel
+dominos order 987 txn ref 3452,Food
+flat rent - card app,Rent
+metro (offer) charge - upi,Travel
+pharmacy - card inc,Health
+airtel bill #1234 txn,Utilities
+sbi salary charge ref 7285,Income
+petrol pump - card online - cashback,Auto/Fuel
+coursera order 987 order - cashback,Education/Childcare
+maintenance charge ref 5678 co - online payment,Rent
+local diner ref 5678 india,Food
+haldiram ref 2869,Food
+air india ref 5678 co - online payment,Travel
+pathology lab (offer) inc,Health
+1mg - cash co - online payment,Health
+wedding gift (offer) txn - online payment,Gifts/Donations
+redbus ref 5678 pvt ltd,Travel
+toll plaza order 987 co - online payment,Travel
+vistara - prepaid payment - upi,Travel
+starbucks #1234 ltd - cashback,Food
+refund (promo) ltd,Others/Transfers
+mobile recharge #1234 online,Utilities
+1mg - card india ref 4102,Health
+zomato order 987 - upi,Food
+kfc (offer) charge - online payment,Food
+dunkin donuts - cash - cashback,Food
+college fee ref 5678 app,Education/Childcare
+myntra (promo) ltd - upi,Shopping
+coursera (offer) pvt ltd - cashback,Education/Childcare
+gaana ref 6379,Entertainment
+local diner online ref 8878,Food
+commission #1234 inc - upi,Income
+society fee - card india,Rent
+taco bell - prepaid payment - cashback,Food
+wedding gift - cash india - online payment,Gifts/Donations
+barbeque nation #1234 ltd - upi,Food
+lyft (promo) india - upi,Travel
+clinic visit (promo) online,Health
+baskin robbins (offer) pvt ltd,Food
+vistara ref 5678 app,Travel
+apartment rent - cash txn - upi,Rent
+salary ref 5678 co - upi,Income
+toll plaza ref 5678 pvt ltd - online payment,Travel
+ngo donation - prepaid pvt ltd,Gifts/Donations
+spicejet (promo) ltd - cashback,Travel
+gaana (offer) app ref 9908,Entertainment
+lyft #1234 india - online payment,Travel
+costa coffee - cash inc ref 3150,Food
+bonus - prepaid ltd ref 5210,Income
+society fee order 987 txn,Rent
+airtel bill (offer) inc - online payment,Utilities
+coursera - card online - upi,Education/Childcare
+lic ref 5678 pvt ltd,Finance
+booking.com co ref 7365,Travel
+papa johns #1234 charge - online payment,Food
+dividend ref 5678 online - online payment,Income
+1mg co - online payment,Health
+hotstar (offer) pvt ltd,Entertainment
+barbeque nation order 987 inc - upi,Food
+phone bill ref 5678 ltd - cashback,Utilities
+local bus (promo) app - cashback,Travel
+lyft - prepaid order,Travel
+electricity payment order 987 pvt ltd ref 5831,Utilities
+course payment (promo) - cashback,Education/Childcare
+dunkin donuts #1234 charge,Food
+redbus - prepaid online - online payment,Travel
+maintenance charge txn ref 5694,Rent
+gas bill - card app - cashback,Utilities
+makemytrip ref 5678 co,Travel
+lic (promo) charge - upi,Finance
+fiverr payout - prepaid inc ref 4336,Income
+burger king - cash online,Food
+electricity payment (promo) india - cashback,Utilities
+flipkart ref 5678 ref 3536,Shopping
+uber (promo) - upi,Travel
+hotstar #1234 pvt ltd ref 9122,Entertainment
+commission (offer) payment - cashback,Income
+metro - card txn,Travel
+1mg - prepaid ltd ref 4367,Health
+dominos - cash co - upi,Food
+flipkart - prepaid txn - cashback,Shopping
+local bus - prepaid co - upi,Travel
+indigo ltd ref 6196,Travel
+irctc order 987 inc - upi,Travel
+electricity payment (offer) app,Utilities
+freelance payment ref 5678 charge - online payment,Income
+mobile recharge - card txn,Utilities
+udemy order 987 online - upi,Education/Childcare
+interest #1234 app - cashback,Income
+doctor consultation - card pvt ltd ref 1999,Health
+flat rent - prepaid ltd,Rent
+reliance digital ref 5678 txn - cashback,Shopping
+phone bill - prepaid app - cashback,Utilities
+1mg - cash txn - upi,Health
+pharmacy - cash ltd,Health
+costa coffee order 987 co - upi,Food
+electricity payment #1234 india ref 9914,Utilities
+landlord rent - card ltd - cashback,Rent
+gofirst - prepaid payment - cashback,Travel
+refund - prepaid inc - online payment,Others/Transfers
+toll plaza - cash charge,Travel
+reliance digital #1234 txn - cashback,Shopping
+local diner (offer) india,Food
+course payment (offer) charge ref 6029,Education/Childcare
+donation to temple ref 5747,Gifts/Donations
+gaana - card india - upi,Entertainment
+freelance payment ref 5678,Income
+mutual fund sip - prepaid ltd ref 5665,Finance
+spicejet - card co,Travel
+fiverr payout #1234 inc - cashback,Income
+cafe coffee day ref 5678 ref 7092,Food
+loan repayment ref 5678 txn,Finance
+barbeque nation txn - cashback,Food
+food panda ref 5678 inc - cashback,Food
+city taxi charge - upi,Travel
+hospital payment - cash india ref 1966,Health
+dividend (promo) charge - upi,Income
+cash withdrawal (promo) pvt ltd - upi,Others/Transfers
+pizza hut ref 5678 inc - upi,Food
+food panda - cash - online payment,Food
+myntra - cash ltd - upi,Shopping
+cash withdrawal order 987 charge,Others/Transfers
+vistara order 987 pvt ltd - upi,Travel
+air india ref 5678 txn - online payment,Travel
+coaching center,Education/Childcare
+croma ref 5678 app - cashback,Shopping
+air india - cash payment - cashback,Travel
+reliance digital - prepaid pvt ltd,Shopping
+medplus - cash co - upi,Health
+lic #1234 - upi,Finance
+rent - card inc,Rent
+amazon (promo) ltd,Shopping
+mobile recharge charge - upi,Utilities
+temple donation (promo) pvt ltd - cashback,Gifts/Donations
+university fee order 987 app - cashback,Education/Childcare
+oyo - card charge ref 4001,Travel
+electricity payment,Utilities
+pathology lab order 987 co - cashback,Health
+amazon prime - cash india - cashback,Entertainment
+course payment order 987 charge ref 8425,Education/Childcare
+cash withdrawal (offer) txn ref 3371,Others/Transfers
+house rent - card inc - upi,Rent
+landlord rent - cash pvt ltd ref 8056,Rent
+makemytrip,Travel
+netflix inc,Entertainment
+tax refund (offer) app - upi,Income
+cinema hall ref 5678 - cashback,Entertainment
+burger king order - upi,Food
+office rent #1234 app - online payment,Rent
+credit card payment - upi,Finance
+booking.com order 987 order ref 4807,Travel
+booking.com - card charge,Travel
+airtel bill (offer) txn - online payment,Utilities
+gofirst - card charge - cashback,Travel
+apollo pharmacy (promo) order ref 9761,Health
+apartment rent #1234 charge - upi,Rent
+amazon - cash charge - online payment,Shopping
+atm withdrawal,Others/Transfers
+tax refund (promo) india,Income
+loan repayment - prepaid online - online payment,Finance
+mobile recharge order,Utilities
+lyft (promo) co - upi,Travel
+dominos ref 5678 app - upi,Food
+cafe coffee day (offer) online,Food
+gofirst order 987 pvt ltd,Travel
+hotstar (offer) inc - cashback,Entertainment
+fuel pump payment ref 7869,Auto/Fuel
+maintenance charge ref 5678 pvt ltd,Rent
+yatra co - cashback,Travel
+exam fee - cash app - cashback,Education/Childcare
+irctc payment - cashback,Travel
+interest (offer) order - upi,Income
+burger king (offer) order,Food
+booking.com (promo) payment,Travel
+pizza hut #1234 ltd,Food
+university fee (offer) co,Education/Childcare
+electricity bill - card ltd,Utilities
+sbi salary ref 5678 co - upi,Income
+papa johns - prepaid order - online payment,Food
+sbi salary (offer) - upi,Income
+petrol pump - card ltd - upi,Auto/Fuel
+bookmyshow order 987 ltd - online payment,Entertainment
+apollo pharmacy india,Health
+course payment (offer) pvt ltd - online payment,Education/Childcare
+papa johns ref 5678 co - online payment,Food
+atm withdrawal india,Others/Transfers
+lic - prepaid app ref 6288,Finance
+swiggy (promo) payment - cashback,Food
+cash withdrawal - card txn - upi,Others/Transfers
+baskin robbins order 987 - upi,Food
+atm withdrawal ref 3522,Others/Transfers
+oyo order 987 co,Travel
+donation,Gifts/Donations
+society fee - cash txn - upi,Rent
+gas bill order 987 order,Utilities
+pizza hut #1234 co,Food
+clinic visit - prepaid pvt ltd,Health
+dental clinic ref 5678 - cashback,Health
+cleartrip ltd,Travel
+udemy co,Education/Childcare
+concert ticket (offer) txn,Entertainment
+dineout ref 5678 india,Food
+interest - card txn - online payment,Income
+fuel - prepaid ltd - upi,Auto/Fuel
+apollo pharmacy order 987 app ref 8887,Health
+snapdeal charge,Shopping
+ola - card order ref 7451,Travel
+cafe coffee day (offer) txn - cashback,Food
+bigbasket ref 5678 payment,Shopping
+refund #1234 online,Others/Transfers
+starbucks (offer) ltd ref 6927,Food
+hotstar india - upi,Entertainment
+medplus order ref 9337,Health
+school fee #1234 online,Education/Childcare
+mobile recharge - prepaid inc - cashback,Utilities
+redbus order ref 6788,Travel
+air india - cash txn,Travel
+zomato (promo) order - cashback,Food
+makemytrip (promo),Travel
+disney plus payment ref 6699,Entertainment
+electricity payment (promo) india - upi,Utilities
+steam - cash online - online payment,Entertainment
+coaching center - prepaid pvt ltd,Education/Childcare
+ikea - cash - upi,Shopping
+pizza hut ref 5678 online ref 1531,Food
+refund order 987 inc,Others/Transfers
+zomato - prepaid order,Food
+gofirst (promo) txn - upi,Travel
+pizza hut ref 5678 online,Food
+booking.com ref 5678 inc - upi,Travel
+water board - card ref 2171,Utilities
+freelance payment app,Income
+kfc charge,Food
+mcdonalds (offer) app,Food
+concert ticket - cash inc,Entertainment
+university fee - online payment,Education/Childcare
+electricity bill - cash app ref 2319,Utilities
+toll plaza,Travel
+papa johns ref 5678 pvt ltd ref 8329,Food
+cafe coffee day - cash charge - upi,Food
+taco bell india - upi,Food
+reliance digital,Shopping

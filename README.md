@@ -1,33 +1,138 @@
-# Expenza
 
-![Node.js](https://img.shields.io/badge/-Node.js-blue?logo=nodejs&logoColor=white)
+# **Expenza – Intelligent Expense Management System**
 
-## 📝 Description
+![Node.js](https://img.shields.io/badge/-Node.js-blue?logo=nodejs\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-yellow?logo=python\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-green)
 
-Expenza is a web application built with Node.js designed to help users meticulously track and manage their expenses. While the initial description is brief, Expenza aims to provide a user-friendly interface for logging income and expenses, categorizing transactions, and generating insightful reports. This empowers users to gain a clear understanding of their spending habits and make informed financial decisions. Further feature development may include budgeting tools, financial goal setting, and integration with bank accounts for automated transaction tracking.
+## 📝 **Description**
 
-## ✨ Features
+**Expenza** is an ML-powered expense management system that combines a smart machine learning model with a modern web application.
+The system enables users to:
 
-- 🕸️ Web
+* Add expenses & income
+* Auto-categorize transactions using a trained ML model
+* Visualize financial data through interactive charts
+* Gain insights into spending patterns and savings behaviour
+* Plan expenses and track budgets more efficiently
 
+The core of the project is a **Machine Learning model** (trained in Python) that intelligently predicts the *category of each expense* based on user input. The web application, built with **Node.js + Next.js**, handles the UI, user flow, and visualization of insights.
 
-## 🛠️ Tech Stack
+---
 
-- ⬢ Node.js
+## ✨ **Key Features**
 
+### 🔥 **1. ML-Powered Expense Categorization**
 
-## 📦 Key Dependencies
+* A trained ML model (Python + scikit-learn) automatically predicts categories such as:
+
+  * Food
+  * Travel
+  * Shopping
+  * Bills
+  * Health
+  * Miscellaneous
+* Users don’t need to manually categorize every expense.
+
+### 🌐 **2. Modern Web App Interface**
+
+* Built with **Next.js (App Router)**
+* Clean and minimal UI using **Tailwind CSS**
+* Add Expense / Add Income pages
+* Dashboard with:
+
+  * Expense charts
+  * Savings insights
+  * Financial planner
+
+### 📊 **3. Interactive Visualizations**
+
+Built using **Recharts**, including:
+
+* Monthly expense trends
+* Category-wise spending
+* Income vs expenses analysis
+
+### 🧠 **4. Machine Learning Folder**
+
+Includes:
+
+* `train_model.py` → Model training script
+* `model.pkl` → Saved trained model
+* `app.py` → ML API endpoint (Flask/FastAPI)
+* `data.csv` → Training dataset
+
+### 🔌 **5. API-driven Architecture**
+
+* Web app communicates with the ML backend
+* Expense sent → ML model predicts → Category returned
+* Ensures modular, scalable design
+
+---
+
+## 🛠️ **Tech Stack**
+
+### **Frontend**
+
+* Next.js
+* Tailwind CSS
+* Recharts
+
+### **Backend**
+
+* Node.js
+* Express.js
+* ML API Integration
+
+### **Machine Learning**
+
+* Python
+* Pandas
+* scikit-learn
+* Pickle model
+
+---
+
+## 📦 **Key Dependencies**
 
 ```
 recharts: ^3.2.1
+next: 14+
+express: ^4.x
+python: 3.10+
+scikit-learn
+pandas
 ```
 
-## 🚀 Run Commands
+---
 
-- **test**: `npm run test`
+## 🚀 **Run Commands**
 
+### **Frontend**
 
-## 📁 Project Structure
+```
+npm install
+npm run dev
+```
+
+### **Backend**
+
+```
+cd backend
+npm install
+node server.js
+```
+
+### **ML Model API**
+
+```
+cd ml
+python app.py
+```
+
+---
+
+## 📁 **Project Structure**
 
 ```
 .
@@ -35,40 +140,19 @@ recharts: ^3.2.1
 │   ├── db.js
 │   ├── package.json
 │   └── server.js
-├── builder.config.json
 ├── frontend
 │   ├── app
 │   │   ├── add-expense
-│   │   │   └── page.tsx
 │   │   ├── add-income
-│   │   │   └── page.tsx
 │   │   ├── components
-│   │   │   ├── ExpenseChart.tsx
-│   │   │   ├── Planner.tsx
-│   │   │   ├── SavingsInsight.tsx
-│   │   │   └── Sidebar.tsx
 │   │   ├── expenses
-│   │   │   └── page.tsx
-│   │   ├── favicon.ico
+│   │   ├── planner
 │   │   ├── globals.css
 │   │   ├── layout.tsx
-│   │   ├── page.tsx
-│   │   └── planner
-│   │       └── page.tsx
-│   ├── eslint.config.mjs
-│   ├── next-env.d.ts
-│   ├── next.config.ts
-│   ├── package.json
-│   ├── postcss.config.mjs
+│   │   └── page.tsx
 │   ├── public
-│   │   ├── file.svg
-│   │   ├── globe.svg
-│   │   ├── next.svg
-│   │   ├── vercel.svg
-│   │   └── window.svg
-│   ├── tailwind.config.js
-│   └── tsconfig.json
-├── gyaan.md
+│   ├── package.json
+│   └── tailwind.config.js
 ├── ml
 │   ├── app.py
 │   ├── data.csv
@@ -77,26 +161,20 @@ recharts: ^3.2.1
 └── package.json
 ```
 
-## 🛠️ Development Setup
+---
 
-### Node.js/JavaScript Setup
-1. Install Node.js (v18+ recommended)
-2. Install dependencies: `npm install` or `yarn install`
-3. Start development server: (Check scripts in `package.json`, e.g., `npm run dev`)
+## 👥 **Contributing**
 
+Contributions are welcome!
 
-## 👥 Contributing
+1. Fork the repository
+2. Clone your fork
+3. Create a feature branch
+4. Commit changes
+5. Push the branch
+6. Open a Pull Request
 
-Contributions are welcome! Here's how you can help:
-
-1. **Fork** the repository
-2. **Clone** your fork: `git clone https://github.com/harshitb206/Expenza.git`
-3. **Create** a new branch: `git checkout -b feature/your-feature`
-4. **Commit** your changes: `git commit -am 'Add some feature'`
-5. **Push** to your branch: `git push origin feature/your-feature`
-6. **Open** a pull request
-
-Please ensure your code follows the project's style guidelines and includes tests where applicable.
+Please follow project structure & coding guidelines.
 
 ---
-*This README was generated with ❤️ by ReadmeBuddy*
+
